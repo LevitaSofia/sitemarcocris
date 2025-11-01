@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://cjmlimpezacoifas.com.br/sitemap.xml
+
+# Principais páginas
+Allow: /index.html
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Não indexar arquivos de desenvolvimento
+Disallow: /README.md
+Disallow: /*.md
+
+# Crawl-delay para bots
+Crawl-delay: 1
+
+# Bots específicos
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Página Principal -->
+    <url>
+        <loc>https://cjmlimpezacoifas.com.br/</loc>
+        <lastmod>2024-11-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://cjmlimpezacoifas.com.br/images/logo-cjm.png</image:loc>
+            <image:caption>CJM - Limpeza de Coifas e Manutenção Logo</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Seção Home -->
+    <url>
+        <loc>https://cjmlimpezacoifas.com.br/#home</loc>
+        <lastmod>2024-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Seção Serviços -->
+    <url>
+        <loc>https://cjmlimpezacoifas.com.br/#servicos</loc>
+        <lastmod>2024-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://cjmlimpezacoifas.com.br/images/servico-limpeza.jpg</image:loc>
+            <image:caption>Serviços de Limpeza de Coifas Industriais</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Seção Diferenciais -->
+    <url>
+        <loc>https://cjmlimpezacoifas.com.br/#diferenciais</loc>
+        <lastmod>2024-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Seção Galeria -->
+    <url>
+        <loc>https://cjmlimpezacoifas.com.br/#galeria</loc>
+        <lastmod>2024-11-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://cjmlimpezacoifas.com.br/images/antes-depois-1.jpg</image:loc>
+            <image:caption>Antes e depois da limpeza de coifa</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Seção Contato -->
+    <url>
+        <loc>https://cjmlimpezacoifas.com.br/#contato</loc>
+        <lastmod>2024-11-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+</urlset>
